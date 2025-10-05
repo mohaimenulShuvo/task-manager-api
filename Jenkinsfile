@@ -45,4 +45,3 @@ pipeline {
         }
     }
 }
-Fix Jenkinsfile for Windows (bat instead of sh)
